@@ -1,0 +1,8 @@
+{
+  "name": "mmall_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:y449756770/mmall_back.git",
+  "author": "liuyong <ly89130@126.com>",
+  "license": "MIT"
+}
